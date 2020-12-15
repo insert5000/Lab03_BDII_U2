@@ -1,0 +1,516 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.10.7)  15 DEC 2020 16:09
+entering extended mode
+**"c:/Users/Derian/Desktop/BASE DE DATOS 2/UNIDAD II/lab03/Informe_Laboratorio_03.tex"
+("c:/Users/Derian/Desktop/BASE DE DATOS 2/UNIDAD II/lab03/Informe_Laboratorio_03.tex"
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-18> (C:\Users\Derian\AppData\Roaming\MiKTeX\tex/latex/elsarticle\elsarticle.cls
+Document Class: elsarticle 2020/11/20, 3.3: Elsevier Ltd
+("C:\Program Files\MiKTeX\tex/latex/l3kernel\expl3.sty"
+Package: expl3 2020-06-18 L3 programming layer (loader) 
+ ("C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdfmode.def"
+File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count167
+\l__pdf_internal_box=\box45
+)) ("C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse.sty"
+Package: xparse 2020-05-15 L3 Experimental document command parser
+ ("C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse-generic.tex"
+\l__xparse_current_arg_int=\count168
+\g__xparse_grabber_int=\count169
+\l__xparse_m_args_int=\count170
+\l__xparse_v_nesting_int=\count171
+)) ("C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty"
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count172
+)
+\@bls=\dimen134
+ ("C:\Program Files\MiKTeX\tex/latex/base\article.cls"
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+("C:\Program Files\MiKTeX\tex/latex/base\size12.clo"
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count173
+\c@section=\count174
+\c@subsection=\count175
+\c@subsubsection=\count176
+\c@paragraph=\count177
+\c@subparagraph=\count178
+\c@figure=\count179
+\c@table=\count180
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen135
+) ("C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+ ("C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+) ("C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+ ("C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) ("C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ ("C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen136
+\Gin@req@width=\dimen137
+)
+\c@tnote=\count181
+\c@fnote=\count182
+\c@cnote=\count183
+\c@ead=\count184
+\c@author=\count185
+\@eadauthor=\toks16
+\c@affn=\count186
+\absbox=\box46
+\elsarticlehighlightsbox=\box47
+\elsarticlegrabsbox=\box48
+\keybox=\box49
+\Columnwidth=\dimen138
+\space@left=\dimen139
+\els@boxa=\box50
+\els@boxb=\box51
+\leftMargin=\dimen140
+\@enLab=\toks17
+\@sep=\skip49
+\@@sep=\skip50
+ ("c:/Users\Derian\Desktop\BASE DE DATOS 2\UNIDAD II\lab03\build\Informe_Laboratorio_03.spl") (C:\Users\Derian\AppData\Roaming\MiKTeX\tex/latex/natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip51
+\bibsep=\skip52
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count187
+)
+\splwrite=\write3
+\openout3 = `Informe_Laboratorio_03.spl'.
+
+\appnamewidth=\dimen141
+) ("C:\Program Files\MiKTeX\tex/generic/babel\babel.sty"
+Package: babel 2020/06/10 3.45 The Babel package
+ ("C:\Program Files\MiKTeX\tex/generic/babel\babel.def"
+File: babel.def 2020/06/10 3.45 Babel common definitions
+\babel@savecnt=\count188
+\U@D=\dimen142
+\l@babelnohyphens=\language79
+ ("C:\Program Files\MiKTeX\tex/generic/babel\txtbabel.def")
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count189
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Users\Derian\AppData\Roaming\MiKTeX\tex/latex/babel-spanish\spanish.ldf
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+\es@quottoks=\toks18
+\es@quotdepth=\count190
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+)) ("C:\Program Files\MiKTeX\tex/latex/amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ ("C:\Program Files\MiKTeX\tex/latex/amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks19
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\Derian\AppData\Roaming\MiKTeX\tex/latex/lineno\lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count191
+\output=\toks20
+\linenoprevgraf=\count192
+\linenumbersep=\dimen143
+\linenumberwidth=\dimen144
+\c@linenumber=\count193
+\c@pagewiselinenumber=\count194
+\c@LN@truepage=\count195
+\c@internallinenumber=\count196
+\c@internallinenumbers=\count197
+\quotelinenumbersep=\dimen145
+\bframerule=\dimen146
+\bframesep=\dimen147
+\bframebox=\box52
+LaTeX Info: Redefining \\ on input line 3056.
+) ("C:\Program Files\MiKTeX\tex/latex/base\inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks21
+\inpenc@posthook=\toks22
+) ("C:\Program Files\MiKTeX\tex/latex/url\url.sty"
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (C:\Users\Derian\AppData\Roaming\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/09/12 v3.5b Customizing captions (AR)
+ (C:\Users\Derian\AppData\Roaming\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/09/17 v2.1b caption3 kernel (AR)
+\captionmargin=\dimen148
+\captionmargin@=\dimen149
+\captionwidth=\dimen150
+\caption@tempdima=\dimen151
+\caption@indent=\dimen152
+\caption@parindent=\dimen153
+\caption@hangindent=\dimen154
+Package caption Info: elsarticle document class detected.
+ (C:\Users\Derian\AppData\Roaming\MiKTeX\tex/latex/caption\caption-elsarticle.sto
+File: caption-elsarticle.sto 2020/08/22 v2.0 Adaption of the caption package to the elsarticle document class (AR)
+))
+\c@caption@flags=\count198
+\c@continuedfloat=\count199
+) ("c:/Users\Derian\Desktop\BASE DE DATOS 2\UNIDAD II\lab03\build\Informe_Laboratorio_03.aux"
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+)
+\openout1 = `Informe_Laboratorio_03.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+ ("C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count266
+\scratchdimen=\dimen155
+\scratchbox=\box53
+\nofMPsegments=\count267
+\nofMParguments=\count268
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count269
+\MPscratchDim=\dimen156
+\MPnumerator=\count270
+\makeMPintoPDFobject=\count271
+\everyMPtoPDFconversion=\toks24
+) ("C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+)
+LaTeX Info: Redefining \. on input line 15.
+LaTeX Info: Redefining \% on input line 15.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 21.
+ ("C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 21.
+ ("C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<img/Screenshot_1.png, id=1, 1203.7472pt x 264.23718pt>
+File: img/Screenshot_1.png Graphic file (type png)
+<use img/Screenshot_1.png>
+Package pdftex.def Info: img/Screenshot_1.png  used on input line 41.
+(pdftex.def)             Requested size: 369.88582pt x 81.19499pt.
+<img/Screenshot_2.png, id=3, 233.37187pt x 97.11281pt>
+File: img/Screenshot_2.png Graphic file (type png)
+<use img/Screenshot_2.png>
+Package pdftex.def Info: img/Screenshot_2.png  used on input line 47.
+(pdftex.def)             Requested size: 233.37129pt x 97.11256pt.
+
+Overfull \hbox (2.61108pt too wide) has occurred while \output is active
+[] 
+ []
+
+[1
+
+
+{C:/Users/Derian/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./img/Screenshot_1.png> <./img/Screenshot_2.png>]
+<img/Screenshot_3.png, id=16, 434.37282pt x 81.30376pt>
+File: img/Screenshot_3.png Graphic file (type png)
+<use img/Screenshot_3.png>
+Package pdftex.def Info: img/Screenshot_3.png  used on input line 53.
+(pdftex.def)             Requested size: 369.88582pt x 69.23752pt.
+<img/Screenshot_4.png, id=17, 370.38374pt x 91.09032pt>
+File: img/Screenshot_4.png Graphic file (type png)
+<use img/Screenshot_4.png>
+Package pdftex.def Info: img/Screenshot_4.png  used on input line 59.
+(pdftex.def)             Requested size: 370.38283pt x 91.09007pt.
+<img/Screenshot_5.png, id=18, 203.25937pt x 44.41594pt>
+File: img/Screenshot_5.png Graphic file (type png)
+<use img/Screenshot_5.png>
+Package pdftex.def Info: img/Screenshot_5.png  used on input line 60.
+(pdftex.def)             Requested size: 203.25887pt x 44.41582pt.
+<img/Screenshot_6.png, id=19, 501.37312pt x 54.2025pt>
+File: img/Screenshot_6.png Graphic file (type png)
+<use img/Screenshot_6.png>
+Package pdftex.def Info: img/Screenshot_6.png  used on input line 66.
+(pdftex.def)             Requested size: 369.88582pt x 39.98929pt.
+<img/Screenshot_7.png, id=20, 194.22563pt x 70.01157pt>
+File: img/Screenshot_7.png Graphic file (type png)
+<use img/Screenshot_7.png>
+Package pdftex.def Info: img/Screenshot_7.png  used on input line 72.
+(pdftex.def)             Requested size: 194.22514pt x 70.01138pt.
+<img/Screenshot_8.png, id=21, 423.83344pt x 88.07906pt>
+File: img/Screenshot_8.png Graphic file (type png)
+<use img/Screenshot_8.png>
+Package pdftex.def Info: img/Screenshot_8.png  used on input line 73.
+(pdftex.def)             Requested size: 369.88582pt x 76.8714pt.
+<img/Screenshot_9.png, id=22, 140.77594pt x 88.07906pt>
+File: img/Screenshot_9.png Graphic file (type png)
+<use img/Screenshot_9.png>
+Package pdftex.def Info: img/Screenshot_9.png  used on input line 79.
+(pdftex.def)             Requested size: 140.77557pt x 88.07883pt.
+<img/Screenshot_10.png, id=23, 204.01219pt x 43.66313pt>
+File: img/Screenshot_10.png Graphic file (type png)
+<use img/Screenshot_10.png>
+Package pdftex.def Info: img/Screenshot_10.png  used on input line 80.
+(pdftex.def)             Requested size: 204.01169pt x 43.66301pt.
+ [2 <./img/Screenshot_3.png> <./img/Screenshot_4.png> <./img/Screenshot_5.png> <./img/Screenshot_6.png> <./img/Screenshot_7.png> <./img/Screenshot_8.png>]
+<img/Screenshot_11.png, id=33, 274.02374pt x 54.2025pt>
+File: img/Screenshot_11.png Graphic file (type png)
+<use img/Screenshot_11.png>
+Package pdftex.def Info: img/Screenshot_11.png  used on input line 86.
+(pdftex.def)             Requested size: 274.02307pt x 54.20236pt.
+<img/Screenshot_12.png, id=34, 159.59625pt x 93.34875pt>
+File: img/Screenshot_12.png Graphic file (type png)
+<use img/Screenshot_12.png>
+Package pdftex.def Info: img/Screenshot_12.png  used on input line 92.
+(pdftex.def)             Requested size: 159.59584pt x 93.34851pt.
+<img/Screenshot_13.png, id=35, 130.23656pt x 51.94406pt>
+File: img/Screenshot_13.png Graphic file (type png)
+<use img/Screenshot_13.png>
+Package pdftex.def Info: img/Screenshot_13.png  used on input line 98.
+(pdftex.def)             Requested size: 130.23624pt x 51.94392pt.
+<img/Screenshot_14.png, id=36, 387.69844pt x 36.135pt>
+File: img/Screenshot_14.png Graphic file (type png)
+<use img/Screenshot_14.png>
+Package pdftex.def Info: img/Screenshot_14.png  used on input line 104.
+(pdftex.def)             Requested size: 369.88582pt x 34.47523pt.
+<img/Screenshot_15.png, id=37, 368.1253pt x 78.2925pt>
+File: img/Screenshot_15.png Graphic file (type png)
+<use img/Screenshot_15.png>
+Package pdftex.def Info: img/Screenshot_15.png  used on input line 105.
+(pdftex.def)             Requested size: 369.88582pt x 78.67339pt.
+<img/Screenshot_16.png, id=38, 183.68625pt x 29.35968pt>
+File: img/Screenshot_16.png Graphic file (type png)
+<use img/Screenshot_16.png>
+Package pdftex.def Info: img/Screenshot_16.png  used on input line 106.
+(pdftex.def)             Requested size: 183.68578pt x 29.35959pt.
+ [3 <./img/Screenshot_9.png> <./img/Screenshot_10.png> <./img/Screenshot_11.png> <./img/Screenshot_12.png> <./img/Screenshot_13.png>]
+<img/Screenshot_17.png, id=47, 362.85562pt x 35.38219pt>
+File: img/Screenshot_17.png Graphic file (type png)
+<use img/Screenshot_17.png>
+Package pdftex.def Info: img/Screenshot_17.png  used on input line 112.
+(pdftex.def)             Requested size: 362.85474pt x 35.3821pt.
+<img/Screenshot_18.png, id=48, 182.18062pt x 38.39343pt>
+File: img/Screenshot_18.png Graphic file (type png)
+<use img/Screenshot_18.png>
+Package pdftex.def Info: img/Screenshot_18.png  used on input line 118.
+(pdftex.def)             Requested size: 182.18016pt x 38.39333pt.
+<img/Screenshot_19.png, id=49, 383.93437pt x 39.14626pt>
+File: img/Screenshot_19.png Graphic file (type png)
+<use img/Screenshot_19.png>
+Package pdftex.def Info: img/Screenshot_19.png  used on input line 124.
+(pdftex.def)             Requested size: 369.88582pt x 37.71616pt.
+<img/Screenshot_20.png, id=50, 325.215pt x 51.94406pt>
+File: img/Screenshot_20.png Graphic file (type png)
+<use img/Screenshot_20.png>
+Package pdftex.def Info: img/Screenshot_20.png  used on input line 125.
+(pdftex.def)             Requested size: 325.2142pt x 51.94392pt.
+<img/Screenshot_21.png, id=51, 238.64156pt x 42.91031pt>
+File: img/Screenshot_21.png Graphic file (type png)
+<use img/Screenshot_21.png>
+Package pdftex.def Info: img/Screenshot_21.png  used on input line 131.
+(pdftex.def)             Requested size: 238.64096pt x 42.91019pt.
+<img/Screenshot_22.png, id=52, 185.94469pt x 43.66313pt>
+File: img/Screenshot_22.png Graphic file (type png)
+<use img/Screenshot_22.png>
+Package pdftex.def Info: img/Screenshot_22.png  used on input line 137.
+(pdftex.def)             Requested size: 185.94421pt x 43.66301pt.
+<img/Screenshot_23.png, id=53, 134.00063pt x 42.91031pt>
+File: img/Screenshot_23.png Graphic file (type png)
+<use img/Screenshot_23.png>
+Package pdftex.def Info: img/Screenshot_23.png  used on input line 138.
+(pdftex.def)             Requested size: 134.00027pt x 42.91019pt.
+ [4 <./img/Screenshot_14.png> <./img/Screenshot_15.png> <./img/Screenshot_16.png> <./img/Screenshot_17.png> <./img/Screenshot_18.png> <./img/Screenshot_19.png> <./img/Screenshot_20.png> <./img/Screenshot_21.png>]
+<img/Screenshot_24.png, id=65, 164.86594pt x 71.51718pt>
+File: img/Screenshot_24.png Graphic file (type png)
+<use img/Screenshot_24.png>
+Package pdftex.def Info: img/Screenshot_24.png  used on input line 144.
+(pdftex.def)             Requested size: 164.86551pt x 71.517pt.
+<img/Screenshot_25.png, id=66, 85.06781pt x 129.48375pt>
+File: img/Screenshot_25.png Graphic file (type png)
+<use img/Screenshot_25.png>
+Package pdftex.def Info: img/Screenshot_25.png  used on input line 145.
+(pdftex.def)             Requested size: 85.0676pt x 129.48341pt.
+<img/Screenshot_26.png, id=67, 377.91188pt x 49.68562pt>
+File: img/Screenshot_26.png Graphic file (type png)
+<use img/Screenshot_26.png>
+Package pdftex.def Info: img/Screenshot_26.png  used on input line 146.
+(pdftex.def)             Requested size: 377.91095pt x 49.6855pt.
+<img/Screenshot_27.png, id=68, 817.55438pt x 60.225pt>
+File: img/Screenshot_27.png Graphic file (type png)
+<use img/Screenshot_27.png>
+Package pdftex.def Info: img/Screenshot_27.png  used on input line 152.
+(pdftex.def)             Requested size: 369.88582pt x 27.24802pt.
+<img/Screenshot_28.png, id=69, 810.02625pt x 69.25874pt>
+File: img/Screenshot_28.png Graphic file (type png)
+<use img/Screenshot_28.png>
+Package pdftex.def Info: img/Screenshot_28.png  used on input line 158.
+(pdftex.def)             Requested size: 369.88582pt x 31.62584pt.
+<img/Screenshot_29.png, id=70, 302.63063pt x 40.65187pt>
+File: img/Screenshot_29.png Graphic file (type png)
+<use img/Screenshot_29.png>
+Package pdftex.def Info: img/Screenshot_29.png  used on input line 159.
+(pdftex.def)             Requested size: 302.62988pt x 40.65176pt.
+<img/Screenshot_30.png, id=71, 339.51843pt x 93.34875pt>
+File: img/Screenshot_30.png Graphic file (type png)
+<use img/Screenshot_30.png>
+Package pdftex.def Info: img/Screenshot_30.png  used on input line 165.
+(pdftex.def)             Requested size: 339.5176pt x 93.34851pt.
+<img/Screenshot_31.png, id=72, 324.46219pt x 26.34843pt>
+File: img/Screenshot_31.png Graphic file (type png)
+<use img/Screenshot_31.png>
+Package pdftex.def Info: img/Screenshot_31.png  used on input line 166.
+(pdftex.def)             Requested size: 324.46138pt x 26.34836pt.
+ [5 <./img/Screenshot_22.png> <./img/Screenshot_23.png> <./img/Screenshot_24.png> <./img/Screenshot_25.png> <./img/Screenshot_26.png> <./img/Screenshot_27.png> <./img/Screenshot_28.png> <./img/Screenshot_29.png>]
+Overfull \hbox (7.01115pt too wide) in paragraph at lines 172--173
+[]\OT1/cmr/m/n/12 Ubicacion S3 del script: s3://us-east-1.elasticmapreduce.samples / cloud-
+ []
+
+<img/Screenshot_32.png, id=84, 403.5075pt x 114.4275pt>
+File: img/Screenshot_32.png Graphic file (type png)
+<use img/Screenshot_32.png>
+Package pdftex.def Info: img/Screenshot_32.png  used on input line 178.
+(pdftex.def)             Requested size: 369.88582pt x 104.89394pt.
+<img/Screenshot_33.png, id=85, 182.93344pt x 29.35968pt>
+File: img/Screenshot_33.png Graphic file (type png)
+<use img/Screenshot_33.png>
+Package pdftex.def Info: img/Screenshot_33.png  used on input line 184.
+(pdftex.def)             Requested size: 182.93298pt x 29.35959pt.
+<img/Screenshot_34.png, id=86, 149.8097pt x 39.14626pt>
+File: img/Screenshot_34.png Graphic file (type png)
+<use img/Screenshot_34.png>
+Package pdftex.def Info: img/Screenshot_34.png  used on input line 190.
+(pdftex.def)             Requested size: 149.80931pt x 39.14615pt.
+<img/Screenshot_35.png, id=87, 175.40532pt x 46.67438pt>
+File: img/Screenshot_35.png Graphic file (type png)
+<use img/Screenshot_35.png>
+Package pdftex.def Info: img/Screenshot_35.png  used on input line 191.
+(pdftex.def)             Requested size: 175.40488pt x 46.67424pt.
+<img/Screenshot_36.png, id=88, 225.84375pt x 98.61844pt>
+File: img/Screenshot_36.png Graphic file (type png)
+<use img/Screenshot_36.png>
+Package pdftex.def Info: img/Screenshot_36.png  used on input line 197.
+(pdftex.def)             Requested size: 225.84319pt x 98.61818pt.
+<img/Screenshot_37.png, id=89, 167.87718pt x 69.25874pt>
+File: img/Screenshot_37.png Graphic file (type png)
+<use img/Screenshot_37.png>
+Package pdftex.def Info: img/Screenshot_37.png  used on input line 198.
+(pdftex.def)             Requested size: 167.87677pt x 69.25856pt.
+<img/Screenshot_38.png, id=90, 207.77625pt x 97.86563pt>
+File: img/Screenshot_38.png Graphic file (type png)
+<use img/Screenshot_38.png>
+Package pdftex.def Info: img/Screenshot_38.png  used on input line 199.
+(pdftex.def)             Requested size: 207.77573pt x 97.86537pt.
+[6 <./img/Screenshot_30.png> <./img/Screenshot_31.png> <./img/Screenshot_32.png> <./img/Screenshot_33.png> <./img/Screenshot_34.png> <./img/Screenshot_35.png>]
+<img/Screenshot_39.png, id=100, 146.79843pt x 96.36pt>
+File: img/Screenshot_39.png Graphic file (type png)
+<use img/Screenshot_39.png>
+Package pdftex.def Info: img/Screenshot_39.png  used on input line 213.
+(pdftex.def)             Requested size: 146.79807pt x 96.35974pt.
+<img/Screenshot_40.png, id=101, 214.55156pt x 234.1247pt>
+File: img/Screenshot_40.png Graphic file (type png)
+<use img/Screenshot_40.png>
+Package pdftex.def Info: img/Screenshot_40.png  used on input line 219.
+(pdftex.def)             Requested size: 214.55103pt x 234.12411pt.
+ [7 <./img/Screenshot_36.png> <./img/Screenshot_37.png> <./img/Screenshot_38.png> <./img/Screenshot_39.png>]
+<img/Screenshot_41.png, id=110, 107.65219pt x 97.11281pt>
+File: img/Screenshot_41.png Graphic file (type png)
+<use img/Screenshot_41.png>
+Package pdftex.def Info: img/Screenshot_41.png  used on input line 225.
+(pdftex.def)             Requested size: 107.65192pt x 97.11256pt.
+<img/Screenshot_42.png, id=111, 146.79843pt x 98.61844pt>
+File: img/Screenshot_42.png Graphic file (type png)
+<use img/Screenshot_42.png>
+Package pdftex.def Info: img/Screenshot_42.png  used on input line 231.
+(pdftex.def)             Requested size: 146.79807pt x 98.61818pt.
+<img/Screenshot_43.png, id=112, 123.46124pt x 67.75313pt>
+File: img/Screenshot_43.png Graphic file (type png)
+<use img/Screenshot_43.png>
+Package pdftex.def Info: img/Screenshot_43.png  used on input line 232.
+(pdftex.def)             Requested size: 123.46092pt x 67.75294pt.
+<img/Screenshot_44.png, id=113, 342.5297pt x 132.495pt>
+File: img/Screenshot_44.png Graphic file (type png)
+<use img/Screenshot_44.png>
+Package pdftex.def Info: img/Screenshot_44.png  used on input line 238.
+(pdftex.def)             Requested size: 342.52885pt x 132.49466pt.
+ [8 <./img/Screenshot_40.png> <./img/Screenshot_41.png> <./img/Screenshot_42.png> <./img/Screenshot_43.png>]
+<img/Screenshot_45.png, id=121, 452.4403pt x 179.16937pt>
+File: img/Screenshot_45.png Graphic file (type png)
+<use img/Screenshot_45.png>
+Package pdftex.def Info: img/Screenshot_45.png  used on input line 244.
+(pdftex.def)             Requested size: 369.88582pt x 146.47693pt.
+<img/Screenshot_46.png, id=122, 259.7203pt x 71.51718pt>
+File: img/Screenshot_46.png Graphic file (type png)
+<use img/Screenshot_46.png>
+Package pdftex.def Info: img/Screenshot_46.png  used on input line 250.
+(pdftex.def)             Requested size: 259.71967pt x 71.517pt.
+<img/Screenshot_47.png, id=123, 225.84375pt x 98.61844pt>
+File: img/Screenshot_47.png Graphic file (type png)
+<use img/Screenshot_47.png>
+Package pdftex.def Info: img/Screenshot_47.png  used on input line 256.
+(pdftex.def)             Requested size: 225.84319pt x 98.61818pt.
+ [9 <./img/Screenshot_44.png> <./img/Screenshot_45.png> <./img/Screenshot_46.png>]
+<img/Screenshot_48.png, id=130, 938.00438pt x 200.24812pt>
+File: img/Screenshot_48.png Graphic file (type png)
+<use img/Screenshot_48.png>
+Package pdftex.def Info: img/Screenshot_48.png  used on input line 262.
+(pdftex.def)             Requested size: 369.88582pt x 78.96422pt.
+<img/Screenshot_49.png, id=131, 615.0478pt x 164.86594pt>
+File: img/Screenshot_49.png Graphic file (type png)
+<use img/Screenshot_49.png>
+Package pdftex.def Info: img/Screenshot_49.png  used on input line 268.
+(pdftex.def)             Requested size: 369.88582pt x 99.14923pt.
+<img/Screenshot_50.png, id=132, 937.25156pt x 201.00093pt>
+File: img/Screenshot_50.png Graphic file (type png)
+<use img/Screenshot_50.png>
+Package pdftex.def Info: img/Screenshot_50.png  used on input line 274.
+(pdftex.def)             Requested size: 369.88582pt x 79.32549pt.
+<img/Screenshot_51.png, id=133, 615.80063pt x 167.87718pt>
+File: img/Screenshot_51.png Graphic file (type png)
+<use img/Screenshot_51.png>
+Package pdftex.def Info: img/Screenshot_51.png  used on input line 280.
+(pdftex.def)             Requested size: 369.88582pt x 100.83723pt.
+ [10 <./img/Screenshot_47.png> <./img/Screenshot_48.png> <./img/Screenshot_49.png> <./img/Screenshot_50.png>]
+<img/Screenshot_52.png, id=141, 307.1475pt x 39.89906pt>
+File: img/Screenshot_52.png Graphic file (type png)
+<use img/Screenshot_52.png>
+Package pdftex.def Info: img/Screenshot_52.png  used on input line 286.
+(pdftex.def)             Requested size: 307.14674pt x 39.89894pt.
+ [11 <./img/Screenshot_51.png> <./img/Screenshot_52.png>] ("c:/Users\Derian\Desktop\BASE DE DATOS 2\UNIDAD II\lab03\build\Informe_Laboratorio_03.aux"
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+) ) 
+Here is how much of TeX's memory you used:
+ 6028 strings out of 480790
+ 97996 string characters out of 2907052
+ 350458 words of memory out of 3000000
+ 21938 multiletter control sequences out of 15000+200000
+ 538912 words of font info for 48 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 39i,5n,43p,849b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Derian\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\Derian\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm2488.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on "c:/Users\Derian\Desktop\BASE DE DATOS 2\UNIDAD II\lab03\build\Informe_Laboratorio_03.pdf" (11 pages, 387325 bytes).
+PDF statistics:
+ 169 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 261 words of extra memory for PDF output out of 10000 (max. 10000000)
+
